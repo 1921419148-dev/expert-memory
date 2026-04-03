@@ -26,13 +26,13 @@
 ### Links
 
 <p>
-  <a href="https://Eutopia-wiki.tech/">
+  <a href="https://Eutopia-wiki/">
     <img src="https://img.shields.io/badge/BLOG-Eutopiawiki-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
   </a>
   <a href="https://leetcode.cn/u/hhczc/">
     <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
   </a>
-  <a href="mailto:Eutopia01@gmail.com">
+  <a href="mailto:Eutopia0619@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Eutopia01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
   <br/>
@@ -52,5 +52,6 @@
 
 Some column directions I study in [X-Plore](https://github.com/Eutopia/X-Plore) (aka Re:CS).
 
-> "The mission of learning is to gain an understanding of various designs."  
-> "Attempt to achieve any sustainable behavior through automated means."
+> "Access to information is a human right."
+
+> "Stay golden,Pony boy."
